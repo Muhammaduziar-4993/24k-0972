@@ -1,0 +1,14 @@
+Start
+
+//Input
+
+READ
+NUMBER1 , NUMBER2
+
+//Calc
+NUMBER1 + (-NUMBER2)
+
+//PRINT
+RESULT
+
+END
